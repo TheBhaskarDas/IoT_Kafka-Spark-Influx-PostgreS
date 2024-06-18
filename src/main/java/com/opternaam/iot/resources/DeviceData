@@ -1,0 +1,12 @@
+{
+	"title":"DeviceData",
+	"type":"object",
+	"properties":	{
+	"deviceID":{"type":"string"},
+	"temperature":{"type":"float"},
+	"humidity":{"type":"float"},
+	"date":{"type":"string"},
+	"cutomerID":{"type":"string"},
+	"deviceDesc":{"type":"string"}		
+	}
+}
